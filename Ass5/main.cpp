@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Project
+//  Project final CS2
 //
 //  Created by Farida Ragheb 900225892 and Mohamed El-Refai 900222334.
 //
