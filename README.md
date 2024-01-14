@@ -23,6 +23,7 @@ Compile and run the program using a C++ compiler. Ensure that the DEQ.h file is 
 ```bash
 $ g++ main.cpp -o airport_simulation
 $ ./airport_simulation
+```
 
 Dependencies
 
