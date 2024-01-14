@@ -25,11 +25,11 @@ $ g++ main.cpp -o airport_simulation
 $ ./airport_simulation
 ```
 
-Dependencies
+## Dependencies
 
 The program uses the C++ standard library and the Double-Ended Queue (DEQ) data structure defined in the DEQ.h header file.
 
-Configuration
+## Configuration
 
 Tmax: Maximum simulation time in minutes.
 Tr: Remaining service time for the current job.
@@ -37,14 +37,14 @@ Random Number Generation
 
 The program uses the randInt function to generate random integers within a specified range.
 
-Sample Output
+## Sample Output
 Arrival #1 at: 2
 Job #1 Service Started at: 2 Wait = 0
 Arrival #2 at: 10
 ...
 Average Wait Time is 88.5161
 
-Author
+## Author
 
 Farida Ragheb (ID: 900225892)
 Mohamed El-Refai (ID: 900222334)
