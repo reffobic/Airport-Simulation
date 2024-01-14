@@ -41,7 +41,14 @@ The program uses the randInt function to generate random integers within a speci
 Arrival #1 at: 2
 Job #1 Service Started at: 2 Wait = 0
 Arrival #2 at: 10
-...
+Job #2 Service Started at: 12 Wait = 2
+Arrival #3 at: 19
+Job #3 Service Started at: 22 Wait = 3
+Arrival #4 at: 29
+Arrival #5 at: 30
+Job #4 Service Started at: 32 Wait = 3
+Arrival #6 at: 37
+.............
 Average Wait Time is 88.5161
 
 ## Author
